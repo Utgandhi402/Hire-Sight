@@ -78,3 +78,4 @@ We then send the video file directly to our AI model which is capable of perform
 - Chirag Birla
 - Diya Shah
 - Rudransh Shinghal
+- Utkarsh Gandhi
